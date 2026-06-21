@@ -1,0 +1,30 @@
+{
+  "name": "go-business-referral-dashboard",
+  "version": "1.0.0",
+  "homepage": "https://siva-242006.github.io/Go-Business-Referral-Dashboard",
+  "description": "A referral dashboard for Go Business",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "react": "latest",
+    "react-dom": "latest",
+    "react-scripts": "latest",
+    "react-router-dom": "latest",
+    "js-cookie": "latest"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
