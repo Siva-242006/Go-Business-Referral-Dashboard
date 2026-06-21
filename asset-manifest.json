@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Go-Business-Referral-Dashboard/static/css/main.53eda6df.css",
+    "main.js": "/Go-Business-Referral-Dashboard/static/js/main.61488840.js",
+    "index.html": "/Go-Business-Referral-Dashboard/index.html",
+    "main.53eda6df.css.map": "/Go-Business-Referral-Dashboard/static/css/main.53eda6df.css.map",
+    "main.61488840.js.map": "/Go-Business-Referral-Dashboard/static/js/main.61488840.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53eda6df.css",
+    "static/js/main.61488840.js"
+  ]
+}
